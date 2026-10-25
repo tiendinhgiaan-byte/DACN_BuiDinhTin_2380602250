@@ -1,0 +1,30 @@
+# Du lieu va model - KHONG day len GitHub
+data/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+*.zip
+
+# Ket qua chay
+runs/
+logs/
+wandb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Kaggle credentials - TUYET DOI khong commit
+kaggle.json
+.env
+
+# He dieu hanh / IDE
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,19 @@
+# Do an chuyen nganh - CNN-SA-RFR
+# LUU Y: KHONG cai torch/torchvision bang file nay.
+# Hai goi do phai cai rieng bang lenh co --index-url (xem buoc 3),
+# neu khong pip se keo ve ban CPU-only.
+
+numpy>=1.26,<2.1
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+Pillow>=10.3
+opencv-python>=4.10
+albumentations>=1.4
+tqdm>=4.66
+tensorboard>=2.17
+thop>=0.1.1
+kaggle>=1.6
+jupyter>=1.0
+ipykernel>=6.29
